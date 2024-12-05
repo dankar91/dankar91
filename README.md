@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/7c35ddb8-f203-4021-84cb-984d5ec7a0ff)
-
-
 <a id='link1'></a>
 ## 📑 Содержание
 
