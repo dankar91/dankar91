@@ -78,6 +78,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" />
 
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dankar91&show_icons=true&layout=compact&theme=tokyonight'/>
