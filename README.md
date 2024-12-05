@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/cc5f0431-da8c-46c6-b2e5-a130daa379d1)
+
 <a id='link1'></a>
 ## 📑 Содержание
 
