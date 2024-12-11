@@ -23,12 +23,6 @@
 Постоянно учусь новому и совершенствую свои навыки.
 
 
-<p align="center">
-  <a href="https://www.kaggle.com/"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
-  <a href="https://leetcode.com/u/9nKTyfrwOC/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
-  
-</p>
-
 _______________________________________________________________________________________________________________________
 <a id='link2'></a>
 ## 🎓 Образование
@@ -89,7 +83,11 @@ https://github.com/Ileriayo/markdown-badges
 
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dankar91&show_icons=true&layout=compact&theme=tokyonight'/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/9nKTyfrwOC?theme=nord&font=baloo&extension=null)
+
 </p>
+
 
 
 
