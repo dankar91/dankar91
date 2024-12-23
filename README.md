@@ -152,7 +152,7 @@ ________________________________________________________________________________
 
 [Ссылка на репозиторий](https://github.com/dankar91/Bus_Stop)
 
-Ссылка на дашборд
+[Ссылка на дашборд](https://dankar91ds.grafana.net/public-dashboards/bdaf85cadb8c4ff986ccdff341bc80e6)
 
 <div align="center"> <h2><b>Web-приложение для определения возраста по фотографии</b></h2></div>
 
