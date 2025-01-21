@@ -155,7 +155,7 @@ Telegram-бот для практики медицинского английс�
 <div align="center"> <h2><b>Веб-приложение камень-ножницы-бумага</b></h2></div>
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/43fc74d9-bc69-44e9-b891-35ee8b302ab6)
+  <img src="![image](https://pp.userapi.com/c849124/v849124990/152789/5P9-2pD7-qg.jpg)
 " width="500"/>
 </div>
 
