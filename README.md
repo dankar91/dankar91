@@ -180,6 +180,8 @@ ________________________________________________________________________________
 | -------------------- | :--------------------- |:---------------------------:|:---------------------------:|
 | [Определение уровня депрессии](https://X.ipynb)|Классификация|Инструменты|В работе|
 | [Бетон](https://X.ipynb)|Регрессия|Инструменты|В работе|
+| [Отток клиентов из банка](https://github.com/dankar91/Notebooks/blob/main/Churn/Churn.ipynb)|Отток клиентов|Инструменты|Готово|
+| [Выбор локации для скважины](https://github.com/dankar91/Notebooks/blob/main/Geo/Geo.ipynb)|Расчет прибыли и рисков|Linear Regression, Bootstrap|Готово|
 | [Прогнозирование заказов такси](https://github.com/dankar91/Notebooks/blob/main/TimeSeries_Taxi/TimeSeries_Taxi.ipynb)|Временные ряды|Linear Regression, Random Forest, LGBM, Prophets, ARIMA, LSTM|Готово|
 | [Определение уровня депрессии](https://X.ipynb)|Рекомендательные системы|Инструменты|В работе|
 | [Определение уровня депрессии](https://X.ipynb)|NLP|Инструменты|В работе|
