@@ -178,7 +178,7 @@ ________________________________________________________________________________
 
 | **Краткое описание** | **Задача** | **Инструменты** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|:---------------------------:|
-| [Определение уровня депрессии](https://X.ipynb)|Классификация|Инструменты|В работе|
+| Изучение данных о психическом здоровье|Классификация|Инструменты|В работе|
 | [Бетон](https://X.ipynb)|Регрессия|Инструменты|В работе|
 | [Отток клиентов из банка](https://github.com/dankar91/Notebooks/blob/main/Churn/Churn.ipynb)|Отток клиентов|Matplotlib, Seaborn, GridSearchCV, RandomizedSearchCV, Optuna, SMOTE, Logistic Regression, Decision Tree, Random Forest, XGBoost|Готово|
 | [Выбор локации для скважины](https://github.com/dankar91/Notebooks/blob/main/Geo/Geo.ipynb)|Расчет прибыли и рисков|Linear Regression, Bootstrap|Готово|
