@@ -54,8 +54,10 @@ ________________________________________________________________________________
 <a id='link3'></a>
 ## 🔧 Навыки и Инструменты
 
+<!--
 Разделить на кластеры
 https://github.com/Ileriayo/markdown-badges
+-->
 
 ### Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -82,8 +84,10 @@ https://github.com/Ileriayo/markdown-badges
 
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dankar91&show_icons=true&layout=compact&theme=tokyonight'/>
+<!--
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/9nKTyfrwOC?theme=nord&font=baloo&extension=null)
+-->
 
 </p>
 
