@@ -82,8 +82,6 @@ https://github.com/Ileriayo/markdown-badges
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dankar91&show_icons=true&layout=compact&theme=tokyonight'/>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/9nKTyfrwOC?theme=nord&font=baloo&extension=null)
-
 </p>
 
 
