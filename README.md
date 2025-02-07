@@ -242,12 +242,8 @@ ________________________________________________________________________________
 <a id='link8'></a>
 ## 📫 Как со мной связаться
 
-Telegram:
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kapbl4_91)
 
-
-
-Email: 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 _______________________________________________________________________________________________________________________
 Спасибо, что заглянули! Буду рад фидбеку и новым возможностям для сотрудничества!
