@@ -243,7 +243,10 @@ ________________________________________________________________________________
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kapbl4_91)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dankar91ds@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dankar91ds@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-karavanov-3a158b340)
+
 _______________________________________________________________________________________________________________________
 Спасибо, что заглянули! Буду рад фидбеку и новым возможностям для сотрудничества!
 
