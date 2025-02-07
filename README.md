@@ -139,12 +139,11 @@ ________________________________________________________________________________
 **Используемые инструменты:**
 
 - Python
-- Flask
-- SQLAlchemy
 - OpenAI GPT-4
 - OpenAI Whisper
 - OpenAI TTS
 - PostgeSQL
+- SQLAlchemy
 
 [Ссылка на репозиторий](https://github.com/dankar91/MedTalkAI)
 
