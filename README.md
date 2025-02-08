@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 [Ссылка на репозиторий](https://github.com/dankar91/Bus_Stop)
 
-[Ссылка на дашборд](https://dankar91ds.grafana.net/public-dashboards/bdaf85cadb8c4ff986ccdff341bc80e6)
+[Ссылка на дашборд](https://dankar91ds.grafana.net/public-dashboards/bdaf85cadb8c4ff986ccdff341bc80e6){:target="_blank"}
 
 
 <div align="center"> <h2><b>Чат-бот для практики медицинского английского</b></h2></div>
