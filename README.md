@@ -186,11 +186,12 @@ ________________________________________________________________________________
 
 | **Краткое описание** | **Задача** | **Инструменты** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [Изучение данных о психическом здоровье](https://github.com/dankar91/Notebooks/blob/main/Mental_Health/Mental_health.ipynb)|Классификация|Matplotlib, Seaborn, Phik, BeautifulSoup, LogisticRegression, Random Forest, LightGBM, XGBoost, StackingClassifier, Optuna, Permutation Importance|
+| [Изучение данных о психическом здоровье](https://github.com/dankar91/Notebooks/blob/main/Mental_Health/Mental_health.ipynb)|Классификация|Matplotlib, Seaborn, Phik, Парсинг данных, BeautifulSoup, LogisticRegression, Random Forest, LightGBM, XGBoost, StackingClassifier, Optuna, Permutation Importance|
 | [Прогнозирование прочности бетона](https://github.com/dankar91/Notebooks/blob/main/Concrete/Concrete.ipynb)|Регрессия|Matplotlib, Seaborn, Optuna, Linear Regression, ElasticNet, Random Forest, LightGBM, XGBoost, Shap|
 | [Отток клиентов из банка](https://github.com/dankar91/Notebooks/blob/main/Churn/Churn.ipynb)|Отток клиентов|Matplotlib, Seaborn, GridSearchCV, RandomizedSearchCV, Optuna, SMOTE, Logistic Regression, Decision Tree, Random Forest, XGBoost|
 | [Выбор локации для скважины](https://github.com/dankar91/Notebooks/blob/main/Geo/Geo.ipynb)|Расчет прибыли и рисков|Linear Regression, Bootstrap|
 | [Прогнозирование заказов такси](https://github.com/dankar91/Notebooks/blob/main/TimeSeries_Taxi/TimeSeries_Taxi.ipynb)|Временные ряды|Linear Regression, Random Forest, LGBM, Prophets, ARIMA, LSTM, Matplotlib, Plotly, GridSearchCV, Keras|
+| [Определение тоннальности комментариев с YouTube](https://github.com/dankar91/Notebooks/blob/main/Text_Tonality_YouTube/Text_Tonality_Youtube.ipynb) |Анализ тональности текста|Парсинг данных, YouTube API, HuggingFace|
 <!--
 | Изучение данных о психическом здоровье|Обучение без учителя|Инструменты|
 | Изучение данных о психическом здоровье|Развернуть локальную LLM|Инструменты|
