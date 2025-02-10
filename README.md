@@ -268,6 +268,10 @@ ________________________________________________________________________________
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-karavanov-3a158b340)
 
+<a href="https://hh.ru/applicant/resumes/view?resume=8041280fff0e65191f0039ed1f336d395a5734">
+    <img src="https://github.com/user-attachments/assets/bcb859f5-214a-4505-a65e-ddeeb7cc1992" alt="image" width="80" height="auto">
+</a>
+
 _______________________________________________________________________________________________________________________
 Спасибо, что заглянули! Буду рад фидбеку и новым возможностям для сотрудничества!
 
