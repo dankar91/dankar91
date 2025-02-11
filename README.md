@@ -118,6 +118,18 @@ ________________________________________________________________________________
 - Grafana
 - Docker
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-000000?style=for-the-badge&logo=bytetrack&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-FF3621?style=for-the-badge&logo=roboflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 [Ссылка на репозиторий](https://github.com/dankar91/Bus_Stop)
 
 [Ссылка на дашборд](https://dankar91ds.grafana.net/public-dashboards/bdaf85cadb8c4ff986ccdff341bc80e6)
@@ -137,12 +149,12 @@ ________________________________________________________________________________
 <br><br>
 **Используемые инструменты:**
 
-- Python
-- OpenAI GPT-4
-- OpenAI Whisper
-- OpenAI TTS
-- PostgreSQL
-- SQLAlchemy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_TTS-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [Ссылка на репозиторий](https://github.com/dankar91/MedTalkAI)
 
@@ -163,14 +175,20 @@ ________________________________________________________________________________
 
 <br><br>
 **Используемые инструменты:**
+
 - Python
 - JavaScript
 - MediaPipe
 - WebRTC
 - Flask
 - SocketIO
-  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 
 [Ссылка на репозиторий](https://github.com/dankar91/RPS)
 
