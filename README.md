@@ -106,17 +106,6 @@ ________________________________________________________________________________
 
 <br><br>
 **Используемые инструменты:**
-- Python
-- YOLO
-- ByteTrack
-- Roboflow
-- PostgreSQL
-- FastAPI
-- BeautifulSoup
-- Selenium
-- Keras
-- Grafana
-- Docker
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -124,6 +113,7 @@ ________________________________________________________________________________
 ![Roboflow](https://img.shields.io/badge/Roboflow-FF3621?style=for-the-badge&logo=roboflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<br>
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -176,12 +166,6 @@ ________________________________________________________________________________
 <br><br>
 **Используемые инструменты:**
 
-- Python
-- JavaScript
-- MediaPipe
-- WebRTC
-- Flask
-- SocketIO
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
