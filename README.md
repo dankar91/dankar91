@@ -169,6 +169,8 @@ ________________________________________________________________________________
 - WebRTC
 - Flask
 - SocketIO
+  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 [Ссылка на репозиторий](https://github.com/dankar91/RPS)
 
