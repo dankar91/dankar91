@@ -193,7 +193,8 @@ ________________________________________________________________________________
 | -------------------- | :--------------------- |:---------------------------:|
 | [Изучение данных о психическом здоровье](https://github.com/dankar91/Notebooks/blob/main/Mental_Health/Mental_health.ipynb)|Классификация|Matplotlib, Seaborn, Phik, Парсинг данных, BeautifulSoup, LogisticRegression, Random Forest, LightGBM, XGBoost, StackingClassifier, Optuna, Permutation Importance|
 | [Прогнозирование прочности бетона](https://github.com/dankar91/Notebooks/blob/main/Concrete/Concrete.ipynb)|Регрессия|Matplotlib, Seaborn, Optuna, Linear Regression, ElasticNet, Random Forest, LightGBM, XGBoost, Shap|
-| [Создание ИИ-агентов с целью формирования материалов для подготовки материалов к разговорному клубу по медицинскому английскому](https://github.com/dankar91/Notebooks/blob/main/AI_Agents/AI_Agents_Medical_English_Speaking_Club.ipynb)|AI-агенты|Langchain, Langgraph, Tavily, Open AI, YouTube API,  |
+| [Создание ИИ-агентов с целью формирования материалов для подготовки материалов к разговорному клубу по медицинскому английскому](https://github.com/dankar91/Notebooks/blob/main/AI_Agents/AI_Agents_Medical_English_Speaking_Club.ipynb)|AI-агенты|Langchain, Langgraph, Tavily, Open AI, YouTube API|
+| [AI-ассистент для по строительному контролю](https://github.com/dankar91/Notebooks/blob/main/RAG/RAG_Construction_assistant.ipynb) | RAG |Open AI, PyPDF2, FAISS, SentenceTransformer|
 | [Отток клиентов из банка](https://github.com/dankar91/Notebooks/blob/main/Churn/Churn.ipynb)|Отток клиентов|Matplotlib, Seaborn, GridSearchCV, RandomizedSearchCV, Optuna, SMOTE, Logistic Regression, Decision Tree, Random Forest, XGBoost|
 | [Выбор локации для скважины](https://github.com/dankar91/Notebooks/blob/main/Geo/Geo.ipynb)|Расчет прибыли и рисков|Linear Regression, Bootstrap|
 | [Прогнозирование заказов такси](https://github.com/dankar91/Notebooks/blob/main/TimeSeries_Taxi/TimeSeries_Taxi.ipynb)|Временные ряды|Linear Regression, Random Forest, LGBM, Prophets, ARIMA, LSTM, Matplotlib, Plotly, GridSearchCV, Keras|
@@ -206,7 +207,7 @@ ________________________________________________________________________________
 | [Определение уровня депрессии](https://X.ipynb)|Генерация изображений|Инструменты|
 | [Определение уровня депрессии](https://X.ipynb)|Генерация текста|Инструменты|
 | [Определение уровня депрессии](https://X.ipynb)|Классификация тональности текста|Инструменты|
-| [Определение уровня депресси](https://X.ipynb)|RAG|Инструменты|
+
 
 -->
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
